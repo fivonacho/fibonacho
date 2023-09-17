@@ -17,10 +17,10 @@ h3{
   font-size: 22px;
   font-weight: 500;
 }
-p
+.bio
 {
   font-family: Montserrat;
-  font-size: medium;
+  font-size: small;
   font-size: 22px;
   color: rgb(255, 255, 255);
   font-weight: 100;
@@ -49,6 +49,7 @@ img{
   display: flex;
   flex-direction: column;
   width: 710px;
+  
   }
 
   .content h1{
